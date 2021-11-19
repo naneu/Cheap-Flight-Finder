@@ -3,10 +3,15 @@
 
 Nothing beats a good flight deal. This projects shows how to find cheap flight deals and send  SMS  and/or email notification.
 
-before starting create a Google sheet with two sheets, that contain data as shown below
+before starting create a Google sheet with two sheets, that contain data as shown below.
+
 ![snippet](/imgs/prices1.png)
+
 ![snippet](/imgs/prices.png)
+
 ![snippet](/imgs/users.png)
+
+
 ### APIs Required
 
 1. Google Sheet Data Management - https://sheety.co/
